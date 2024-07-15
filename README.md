@@ -53,7 +53,7 @@ Models are evaluated using appropriate metrics such as accuracy, precision, reca
 
 ## Results
 
-The results section highlights the performance of different models and identifies the best-performing model. Visualizations of model predictions and actual churn rates are included.
+Achived 85 % Accuracy to predict the customer behaviour.
 
 ## Conclusions
 
